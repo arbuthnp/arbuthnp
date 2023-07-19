@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arbuthnp
-- 👀 I’m interested in lifting, 
-- 🌱 I’m currently learning c,c++
+- 👀 I’m interested in lifting
+- 🌱 I’m currently learning C,C++, and VB.NET
 - 💞️ I’m looking to collaborate on projects that include sports
 - 📫 How to reach me: arbuthnp@oregonstate.edu
 
